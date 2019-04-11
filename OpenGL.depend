@@ -1,0 +1,242 @@
+# depslib dependency file v1.0
+1488542885 source:c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489829479 source:c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks_1\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1392007564 c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1518359888 source:d:\uiu\graphics lab\assignment 1\opengl_codeblocks_1\graphics lab 5 task 1 bouncing ball.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<glut.h>
+
+1392007564 d:\uiu\graphics lab\assignment 1\opengl_codeblocks_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1518503243 source:d:\uiu\openglproject\graphics lab 1 task 1 2d rectangle triangle.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\uiu\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1518503689 source:d:\uiu\openglproject\1205040.cpp
+	"bitmap_image.hpp"
+	<iostream>
+	<vector>
+
+1492200750 d:\uiu\openglproject\opengl\include\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1518970814 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\texture.cpp
+	<bits/stdc++.h>
+	"glut.h"
+	"bitmap_image.hpp"
+
+1392007564 d:\uiu\computer_graphics_laboratory_csi_422\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1492200750 d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1519051690 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\graphics lab 2 online 1 2d house.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1519060045 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\graphics_first.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1519101405 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\graphics_second.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1519660752 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\graphics_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1519660804 source:c:\users\zishan\downloads\openglproject\graphics_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\zishan\downloads\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519661704 source:c:\users\zishan\downloads\openglproject\graphics_2.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1535908943 source:c:\users\tarek\downloads\compressed\openglproject_2\openglproject\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Windows.h>
+	<glut.h>
+
+1392007564 c:\users\tarek\downloads\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1536603175 source:c:\users\tarek\downloads\openglproject\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1536600838 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011 123 015 -mosque muhammed ali\011123015\source.cpp
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<glut.h>
+
+1536601019 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011121036-white house\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Windows.h>
+	<glut.h>
+
+1536601110 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011121076 mosjid\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<glut.h>
+	<Windows.h>
+
+1536601245 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011123003-humayuns tomb.zip\final project\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<glut.h>
+	<windows.h>
+
+1536601399 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011123043 london tower bridge\011123043- final project\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1536601524 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011131147-winter palace\winte palace\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1536601635 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011131159-griffith observatory.humaira rahman\observatory\observatory.cpp
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<glut.h>
+
+1536601755 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\ali-011123075 mosjid meulaboh\code\mosjid_meulaboh.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1536601755 source:c:\users\tarek\downloads\openglproject\mosjid_meulaboh.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1536602656 source:c:\users\tarek\downloads\compressed\computer graphics lab final project plan\computer graphics lab final project plan\011 121 033 -tara mosque\finalproject--011121033 tara masjid\source.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1536609689 source:c:\users\tarek\documents\new folder (2)\romanpantheon.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\tarek\documents\new folder (2)\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1536609689 source:c:\users\tarek\documents\roman pantheon\romanpantheon.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\tarek\documents\roman pantheon\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
